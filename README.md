@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Jack! <br/><a href="www.linkedin.com/in/jack-stapholz-586559303">Statistics and Data Science Major</a>
 
-<!--
-**staphoja/staphoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Data Science Projects:</h2>
+  - 
+<h2>R:</h2>
+  - 
+<h2>Python:</h2>
+  - 
 
-Here are some ideas to get you started:
+<h2> Social Media:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="staphoja | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/jack-stapholz-586559303/
