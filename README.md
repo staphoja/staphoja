@@ -6,6 +6,8 @@
   - 
 <h2>Python:</h2>
   - 
+<h2>C++:</h2>
+  - 
 
 <h2> Social Media:</h2>
 
