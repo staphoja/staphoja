@@ -9,6 +9,9 @@
 <b>Python</b>
   - [Predicting Music Genres Using Neural Network Model](https://github.com/staphoja/NeuralNetworkModel)
 
+<b>SQL</b>
+  - [DATABASE ANALYSIS OF PITCHFORK REVIEWS WITH SQL + R](https://github.com/staphoja/SQLandRAnalysis)
+
 <b>C++</b>
   - [Automated Tour Guide System With Navigation and Landmark Data](https://github.com/staphoja/AutomatedTourCPP)
   - [Pea Shooter Game Mechanics Using Existing Graphics Template](https://github.com/staphoja/PeaShooterGameCPP)
