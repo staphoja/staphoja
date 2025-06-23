@@ -8,6 +8,7 @@
 
 <b>Python</b>
   - [Predicting Music Genres Using Neural Network Model](https://github.com/staphoja/NeuralNetworkModel)
+  - [Product-User Recommender Algorithm](https://github.com/staphoja/Sequence-GraphRecommenders)
 
 <b>SQL</b>
   - [Database Analysis of Pitchfork Reviews with SQL + R](https://github.com/staphoja/SQLandRAnalysis)
